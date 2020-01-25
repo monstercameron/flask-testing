@@ -174,7 +174,7 @@ python-dotenv==0.10.5
 python-vlc==3.0.7110
 pytz==2018.5
 PyWavelets==1.0.0
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==17.1.2
 QtAwesome==0.4.4
 qtconsole==4.4.1
